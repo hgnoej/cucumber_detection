@@ -1,0 +1,11 @@
+yolo_model:
+
+  config_file:
+    name: cucumber.cfg
+  weight_file:
+    name: cucumber.weights
+  threshold:
+    value: 0.3
+  detection_classes:
+    names:
+      - cucumber
