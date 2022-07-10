@@ -39,6 +39,9 @@ $ cp -r object_detection.launch ~/catkin_ws/src/darknet_ros/darknet_ros/launch
 
 in yolo_network_config/cfg/
 $ cp -r cucumber.cfg ~/catkin_ws/src/darknet_ros/darknet_ros/cfg
+```
 
-in yolo_network_config/weights/
-$ cp -r cucumber.weights ~/catkin_ws/src/darknet_ros/darknet_ros/weights
+* cucumber weights file [DOWNLOAD](https://drive.google.com/file/d/149poCQdz6qxb7LIEnRqXwciHbe-ubVft/view?usp=sharing)
+```
+Add in yolo_network_config/weights/cucumber.weights
+```
