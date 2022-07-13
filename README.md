@@ -40,7 +40,7 @@ in yolo_network_config/cfg/
 $ cp -r cucumber.cfg ~/catkin_ws/src/darknet_ros/darknet_ros/cfg
 ```
 
-* cucumber weights file [DOWNLOAD](https://drive.google.com/file/d/149poCQdz6qxb7LIEnRqXwciHbe-ubVft/view?usp=sharing)
+* cucumber weights file [DOWNLOAD](https://drive.google.com/file/d/1RSzCzxxeflkGGB4y9GMLQCJY_EiZE-id/view?usp=sharing)
 ```
 Add in yolo_network_config/weights/cucumber.weights
 ```
