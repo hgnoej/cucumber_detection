@@ -17,7 +17,7 @@ $ catkin_make
 * darknet_ros
 ```
 $ cd ~/catkin_ws/src
-$ [git clone --recursive git@github.com:leggedrobotics/darknet_ros.git](https://github.com/leggedrobotics/darknet_ros.git)
+$ git clone https://github.com/leggedrobotics/darknet_ros.git
 $ cd ..
 $ catkin_make -DCMAKE_BUILD_TYPE=Release
 ```
